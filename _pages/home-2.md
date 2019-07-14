@@ -4,7 +4,7 @@ post_title: Home
 author: @comeoninc.com
 post_excerpt: ""
 layout: page
-permalink: https://www.comeoninc.com/home-2/
+permalink: https://www.comeoninc.com/
 published: true
 post_date: 2018-11-23 05:14:48
 ---
@@ -34,26 +34,26 @@ post_date: 2018-11-23 05:14:48
 			<h2>Testimonials</h2>		
 		<p>What they say after working with us? Their words truly from their deepest heart.</p>		
 							We found their work to be exemplary. I would highly recommend that any firm looking to create awareness and increase visibility engage Vast Business.
-							<img width="340" height="340" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people03.jpg" alt="" srcset="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people03.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people03-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people03-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
+							<img width="340" height="340" src="https://www.comeoninc.com/wp-content/uploads/testimoby-people03.jpg" alt="" srcset="https://www.comeoninc.com/wp-content/uploads/testimoby-people03.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people03-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people03-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
 													Tonya McGee
 																			Town & Country Day School
 							Vast Business knows how to communicate with executive audiences in a compelling and credible way. The results speak for themselves. I really recommended Vast Business become your affiliate.
-							<img width="340" height="340" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people02.jpg" alt="" srcset="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people02.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people02-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people02-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
+							<img width="340" height="340" src="https://www.comeoninc.com/wp-content/uploads/testimoby-people02.jpg" alt="" srcset="https://www.comeoninc.com/wp-content/uploads/testimoby-people02.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people02-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/testimoby-people02-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
 													Carol Gardner
 																			Bill Gladstone Group of NAI CIR
 							Their thinking, probing and investigating of who we are has led us to a better strategic plan, and the response has been outstanding. Vast Business is the best way to bring your dreams come true.
-							<img width="340" height="340" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-04.jpg" alt="" srcset="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-04.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-04-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-04-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
+							<img width="340" height="340" src="https://www.comeoninc.com/wp-content/uploads/team-04.jpg" alt="" srcset="https://www.comeoninc.com/wp-content/uploads/team-04.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-04-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-04-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
 													Amy C. Morton
 																			Capital Area Intermediate Unit
 							I really enjoy working with Vast Business. They always recommended us the best business way. For you who experiences business failure, i will recommended Vast Business  
-							<img width="340" height="340" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-05.jpg" alt="" srcset="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-05.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-05-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-05-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
+							<img width="340" height="340" src="https://www.comeoninc.com/wp-content/uploads/team-05.jpg" alt="" srcset="https://www.comeoninc.com/wp-content/uploads/team-05.jpg 340w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-05-150x150.jpg 150w, http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/team-05-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />						
 													Phillip Coulson
 																			Presient of PC Company
-										<img width="146" height="60" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/dummy_logo1.png" alt="" />											
-										<img width="162" height="44" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/dummy_logo4.png" alt="" />											
-										<img width="113" height="55" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/dummy_logo2.png" alt="" />											
-										<img width="163" height="42" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/dummy_logo3.png" alt="" />											
-										<img width="159" height="43" src="http://demo.vastthemes.com/elementor-business/wp-content/uploads/sites/59/2018/07/dummy_logo5.png" alt="" />											
+										<img width="146" height="60" src="https://www.comeoninc.com/wp-content/uploads/dummy_logo1.png" alt="" />											
+										<img width="162" height="44" src="https://www.comeoninc.com/wp-content/uploads/dummy_logo4.png" alt="" />											
+										<img width="113" height="55" src="https://www.comeoninc.com/wp-content/uploads/dummy_logo2.png" alt="" />											
+										<img width="163" height="42" src="https://www.comeoninc.com/wp-content/uploads/dummy_logo3.png" alt="" />											
+										<img width="159" height="43" src="https://www.comeoninc.com/wp-content/uploads/dummy_logo5.png" alt="" />											
 			<h2>Get Special Offer For This Time</h2>		
 		Are you searching for proficient guidance for your business or your industry?		
 			<a href="http://demo.vastthemes.com/elementor-business/contact-us/" role="button">
