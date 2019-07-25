@@ -2,9 +2,26 @@
   "language": "ts",
   "collection": "@nestjs/schematics",
   "sourceRoot": "src",
-  "styles": ['src/assets/responsive.css'],
+  "styles": [
+  'src/assets/grid/html5reset.css',
+  'src/assets/grid/2cols.css',
+  'src/assets/grid/3cols.css',
+  'src/assets/grid/4cols.css',
+  'src/assets/grid/5cols.css',
+  'src/assets/grid/6cols.css',
+  'src/assets/grid/7cols.css',
+  'src/assets/grid/8cols.css',
+  'src/assets/grid/9cols.css',
+  'src/assets/grid/10cols.css',
+  'src/assets/grid/11cols.css',
+  'src/assets/grid/12cols.css',
+  'src/assets/responsive.css'
+  ],
+
   "script": [
-  'src/assets/modernizr.js',
-  'src/assets/jquery.min.js'  
+  'src/assets/js/jquery.min.js',
+  'src/assets/js/modernizr.js',
+   'src/assets/js/render.js',
+   'src/assets/js/xscroll.js'
   ]
 }
